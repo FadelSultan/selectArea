@@ -1,0 +1,6 @@
+framework module Pods_selectorAriaTests {
+  umbrella header "Pods-selectorAriaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
